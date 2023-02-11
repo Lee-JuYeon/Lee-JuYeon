@@ -17,28 +17,28 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 
 -->
 # 👨🏻‍💻 Mobile Application Developer, JuYeon Lee.
-**I'm using Android🤖 & iOS🍎**
 
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif"/>
 </div>
 
+**I'm using Android🤖 & iOS🍎**
 
-### Skills👐🏻
+## Skills👐🏻
 
-#### Platforms
+### Platforms
 android studio, xcode, flutter, github
-https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=square&logoColor=white
+http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin
 
-#### Languages
+### Languages
 kotlin, swift, python, dart
 
-#### Tools
+### Tools
 firebase, github
 
-#### Developed Applications
+### Developed Applications
 google playstore, app store
 
-#### Email, Engineering Blog, Resume
+### Email, Engineering Blog, Resume
 gmail, blog, resume
