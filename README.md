@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=JUYEON, LEE&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
 
-
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F339810734370763024%2F&psig=AOvVaw0MwD_kukr1ejRhW-7doWYx&ust=1676198725999000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCD2v6kjf0CFQAAAAAdAAAAABA3)" width="200"/>
+</div>
 
 
 tools
