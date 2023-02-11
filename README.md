@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#👨🏻‍💻 I'm Ju Yeon, Lee
+# 👨🏻‍💻 I'm Ju Yeon, Lee
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif"/>
