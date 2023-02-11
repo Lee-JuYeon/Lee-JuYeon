@@ -46,7 +46,7 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 ### Developed Applications
 [![Google Playstore Badge](https://img.shields.io/badge/-GooglePlay-414141?style=flat&logo=GooglePlay&logoColor=white&link=https://play.google.com/store/apps/dev?id=5134175020781953950)](https://play.google.com/store/apps/dev?id=5134175020781953950)
 
-google playstore, app store
 
-### Email, Engineering Blog, Resume
-gmail, blog, resume
+### Engineering Blog, LinkedIn
+[![Blog Badge](https://img.shields.io/badge/-Blogger-FF5722?style=flat&logo=Blogger&logoColor=white&link=https://cavss-study.tistory.com/)](https://cavss-study.tistory.com/) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ju-yeon-lee-374056201/)](https://www.linkedin.com/in/ju-yeon-lee-374056201/)
+
