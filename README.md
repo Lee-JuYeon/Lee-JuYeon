@@ -34,7 +34,6 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 )
 
 ### Languages
-kotlin, swift, python, dart
 ![Kotlin badge](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white
 ) ![Swift badge](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white
 ) ![Python badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white
@@ -42,9 +41,13 @@ kotlin, swift, python, dart
 )
 
 ### Tools
-firebase, github
+![Firebase badge](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white
+) ![Github badge](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white
+)
 
 ### Developed Applications
+[![Google Playstore Badge](http://img.shields.io/badge/-Google Play-414141?style=flat&logo=Google Play&logoColor=white&link=https://play.google.com/store/apps/dev?id=5134175020781953950)]([본인주소](https://play.google.com/store/apps/dev?id=5134175020781953950))
+
 google playstore, app store
 
 ### Email, Engineering Blog, Resume
