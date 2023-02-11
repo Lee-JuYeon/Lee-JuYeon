@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&fontAlign=50&fontAlignY=30&text=JUYEON, LEE&desc=developer&descAlign=70&descAlignY=55&height=200&fontSize=60&fontColor=ffffff)
+
+
+
+
+tools
+android studio, xcode, github
+
+languages
+kotlin, swift, python
+
+developed app
+google playstore, app store
+
+gmail, blog, cv
