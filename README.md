@@ -46,7 +46,7 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 )
 
 ### Developed Applications
-[![Google Playstore Badge](http://img.shields.io/badge/-Google Play-414141?style=flat&logo=Google Play&logoColor=white&link=https://play.google.com/store/apps/dev?id=5134175020781953950)](https://play.google.com/store/apps/dev?id=5134175020781953950)
+![Google Playstore Badge](http://img.shields.io/badge/-Google Play-414141?style=flat&logo=Google Play&logoColor=white&link=https://play.google.com/store/apps/dev?id=5134175020781953950)(https://play.google.com/store/apps/dev?id=5134175020781953950)
 
 google playstore, app store
 
