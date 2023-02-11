@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Lee-JuYeon/Lee-JuYeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,27 +13,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}
+
 -->
 # 👨🏻‍💻 Mobile Application Developer, JuYeon Lee.
-# I'm using Android & iOS
+**I'm using Android🤖 & iOS🍎**
+
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif"/>
 </div>
 
 
-Skills
+### Skills👐🏻
 
-platforms
+#### Platforms
 android studio, xcode, flutter, github
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=square&logoColor=white
 
-languages
+#### Languages
 kotlin, swift, python, dart
 
-tools
+#### Tools
 firebase, github
 
-developed app
+#### Developed Applications
 google playstore, app store
 
-gmail, blog, cv
+#### Email, Engineering Blog, Resume
+gmail, blog, resume
