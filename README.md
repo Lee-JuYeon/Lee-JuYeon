@@ -30,7 +30,7 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 ### Platforms
 android studio, xcode, flutter, github
 
-![AndriodStudio badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android
+![AndriodStudio badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white
 )
 
 ### Languages
