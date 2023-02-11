@@ -31,6 +31,8 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 android studio, xcode, flutter, github
 
 ![AndriodStudio badge](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=Android&logoColor=white
+) ![iOS badge](https://img.shields.io/badge/-iOS-000000?style=flat&logo=iOS&logoColor=white
+) ![Flutter badge](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=Flutter&logoColor=white
 )
 
 ### Languages
