@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JuYeon, Lee&fontSize=90" />
-
+#👨🏻‍💻 I'm Ju Yeon, Lee
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif"/>
