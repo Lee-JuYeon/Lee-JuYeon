@@ -14,18 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👨🏻‍💻 I'm Ju Yeon, Lee
+# 👨🏻‍💻 Mobile Application Developer, JuYeon Lee.
+# I'm using Android & iOS
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif"/>
 </div>
 
 
-tools
-android studio, xcode, github
+Skills
+
+platforms
+android studio, xcode, flutter, github
 
 languages
-kotlin, swift, python
+kotlin, swift, python, dart
+
+tools
+firebase, github
 
 developed app
 google playstore, app store
