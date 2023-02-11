@@ -30,7 +30,7 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 ### Platforms
 android studio, xcode, flutter, github
 
-http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin
+https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin
 
 ### Languages
 kotlin, swift, python, dart
