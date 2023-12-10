@@ -20,7 +20,7 @@ https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={
 
 
 <div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/71/d4/be/71d4bec0d0804f32401c08928a040636.gif"/>
+  <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
 </div>
 
 **🦄 Private Project**|**Front End**|**Back End**|**Tech**|
