@@ -13,34 +13,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://img.shields.io/badge/{배지이름}-{css컬러}?style={스타일}&logo={로고}&logoColor={로고컬러}
 
--->
 # 🇰🇷 JuYeon Lee  [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:pizzalover114@naver.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ju-yeon-lee-374056201/) [![Github](https://img.shields.io/badge/-Github_Blog-181717?style=flat&logo=Github&logoColor=white)](https://lee-juyeon.github.io/)
 
+-->
+# 🇰🇷 JuYeon Lee
 
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
 </div>
 
+**👨🏻‍💻 Portfolio**|**✍🏻 Study**|**✉️  Em-ail**|
+:--:|:--:|:--:|
+|[![GitHub](https://img.shields.io/badge/-Portfolio-000000.svg?style=flat&logo=Github&color=black)](https://lee-juyeon.github.io/)|[![Study](https://img.shields.io/badge/-Study-000000.svg?style=flat&logo=Github&color=black)](https://github.com/Lee-JuYeon/Study) |[![Email](https://img.shields.io/badge/-Gmail-EA4335.svg?style=flat&logo=Gmail&color=black)](mailto:pizzalover114@naver.com)
+
+
 **🦄 Private Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-|[PiPE](https://github.com/Lee-JuYeon/PiPE)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white)|![LangChain](https://img.shields.io/badge/-🦜🔗_LangChain-FFFFFF.svg?style=flat&logoColor=white)|
-|[ZZILIT](https://github.com/Lee-JuYeon/ZZILIT)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white)||
-|[MEYOU](https://github.com/Lee-JuYeon/MEYOU)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)||
-|[LessonDiary](https://github.com/Lee-JuYeon/LessonDiary)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)||
-|[Nully](https://github.com/Lee-JuYeon/VRTravel)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|![Nodejs](https://img.shields.io/badge/-RestAPI-339933.svg?style=flat&logo=node.js&logoColor=white)||
-|[VeryMerry](https://github.com/Lee-JuYeon/VeryMerry)|![jetpackCompose](https://img.shields.io/badge/-JetpackCompose-3DDC84.svg?style=flat&logo=android&color=black) ![swiftUI](https://img.shields.io/badge/-SwiftUI-00CAFF.svg?logo=swift&color=black)|![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white)||
-|[YellowLabel](https://github.com/Lee-JuYeon/YelloLabel)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)||
-|[Koguryo](https://github.com/Lee-JuYeon/Koguryo)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)||
-**🦾 Robot Project**|**Front End**|**Back End**|**Tech**|
-|[ESG Boat](https://github.com/Lee-JuYeon/ESG_Boat)|||
+|[PiPE](https://github.com/Lee-JuYeon/PiPE)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white)![NCP](https://img.shields.io/badge/-NCP-03C75A.svg?style=flat&logo=Naver&logoColor=white)|![LangChain](https://img.shields.io/badge/-🦜🔗_LangChain-FFFFFF.svg?style=flat&logoColor=white)
+|[MEYOU](https://github.com/Lee-JuYeon/MEYOU)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white)||
+|[LessonDiary](https://github.com/Lee-JuYeon/LessonDiary)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|||
+|[ZZILIT](https://github.com/Lee-JuYeon/ZZILIT)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&color=02569B)||
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 |[Mono Camera Depth](https://github.com/Lee-JuYeon/MonoCameraDepth)|||
+|[Android Permission](https://github.com/Lee-JuYeon/MonoCameraDepth)|![android](https://img.shields.io/badge/-Android-02569B.svg?style=flat&logo=android&color=black) ![kotlin](https://img.shields.io/badge/-Kotlin-000000.svg?style=flat&logo=kotlin&color=7F52FF&logoColor=white)||
 **🧸 Toy Project**|**Front End**|**Back End**|**Tech**|
-|[GrandMum](https://github.com/Lee-JuYeon/GrandMum) |![jetpackCompose](https://img.shields.io/badge/-JetpackCompose-3DDC84.svg?style=flat&logo=android&color=black) ![swiftUI](https://img.shields.io/badge/-SwiftUI-00CAFF.svg?logo=swift&color=black)||![kotlin](https://img.shields.io/badge/-Kotlin-7F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![swift](https://img.shields.io/badge/-Swift-F05138.svg?logo=swift&logoColor=white)|
-|[LOL Revenge](https://github.com/Lee-JuYeon/LOL_Revenge)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)|![dart](https://img.shields.io/badge/-Dart-02569B.svg?style=flat&logo=dart&logoColor=white)|
-|[Portfolio](https://github.com/Lee-JuYeon/o0Web) |![html5](https://img.shields.io/badge/-HTML-E34F26.svg?style=flat&logo=html5&color=black) ![css3](https://img.shields.io/badge/-CSS-1572B6.svg?style=flat&logo=css3&color=black&logoColor=blue) ![js](https://img.shields.io/badge/-Javascript-1572B6.svg?style=flat&logo=javascript&color=black) ![three.js](https://img.shields.io/badge/-Three.js-02569B.svg?style=flat&logo=three.js&logoColor=black&color=white)|![Flask](https://img.shields.io/badge/-RestAPI-000000.svg?style=flat&logo=flask&color=black)||
+|[Dokdo-Mail](https://github.com/Lee-JuYeon/Dokdo_Mail) |![js](https://img.shields.io/badge/-Javascript-1572B6.svg?style=flat&logo=javascript&color=black)|||
+|[GrandMum](https://github.com/Lee-JuYeon/MyGrandMum) |![jetpackCompose](https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black)||![OCR](https://img.shields.io/badge/-OCR-7F52FF.svg?style=flat&logoColor=white) ![TTS](https://img.shields.io/badge/-TTS-F05138.svg?logoColor=white)|
+|[LOL Revenge](https://github.com/Lee-JuYeon/LOL_Revenge)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)||
 
 
 
