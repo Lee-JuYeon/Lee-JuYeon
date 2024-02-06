@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
 </div>
 
-**👨🏻‍💻 Portfolio**|**✍🏻 Study**|**✉️  Em-ail**|
+**👨🏻‍💻 Portfolio**|**✍🏻 Study**|**✉️  E-mail**|
 :--:|:--:|:--:|
 |[![GitHub](https://img.shields.io/badge/-Portfolio-000000.svg?style=flat&logo=Github&color=black)](https://lee-juyeon.github.io/)|[![Study](https://img.shields.io/badge/-Study-000000.svg?style=flat&logo=Github&color=black)](https://github.com/Lee-JuYeon/Study) |[![Email](https://img.shields.io/badge/-Gmail-EA4335.svg?style=flat&logo=Gmail&color=black)](mailto:pizzalover114@naver.com)
 
