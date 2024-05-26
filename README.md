@@ -31,16 +31,17 @@ Here are some ideas to get you started:
 **🦄 Private Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 |[PiPE](https://github.com/Lee-JuYeon/PiPE)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white) ![Apollo](https://img.shields.io/badge/-Apollo-311C87.svg?style=flat&logo=ApolloGraphQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)|![LangChain](https://img.shields.io/badge/-🦜🔗_LangChain-FFFFFF.svg?style=flat&logoColor=white)
-|[MEYOU](https://github.com/Lee-JuYeon/MEYOU)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white)||
 |[AR Travel](https://github.com/Lee-JuYeon/LessonDiary)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|||
 |[Habbit](https://github.com/Lee-JuYeon/ZZILIT)|![jetpackCompose](https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black)![SwiftUI](https://img.shields.io/badge/-SwiftUI-3DDC84.svg?style=flat&logo=swift&color=black)||
-|[LessonDiary](https://github.com/Lee-JuYeon/ZZILIT)|![jetpackCompose](https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black)![SwiftUI](https://img.shields.io/badge/-SwiftUI-3DDC84.svg?style=flat&logo=swift&color=black)||
+|[LessonDiary](https://github.com/Lee-JuYeon/ZZILIT)|![jetpackCompose](https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black)![SwiftUI](https://img.shields.io/badge/-SwiftUI-3DDC84.svg?style=flat&logo=swift&color=black)||
+|[MEYOU](https://github.com/Lee-JuYeon/MEYOU)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white)||
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 |[Android Permission](https://github.com/Lee-JuYeon/MonoCameraDepth)|![android](https://img.shields.io/badge/-Android-02569B.svg?style=flat&logo=android&color=black) ![kotlin](https://img.shields.io/badge/-Kotlin-000000.svg?style=flat&logo=kotlin&color=7F52FF&logoColor=white)||
 **🧸 Toy Project**|**Front End**|**Back End**|**Tech**|
-|[Dokdo-Mail](https://github.com/Lee-JuYeon/Dokdo_Mail) |![js](https://img.shields.io/badge/-Javascript-1572B6.svg?style=flat&logo=javascript&color=black)|||
-|[GrandMum](https://github.com/Lee-JuYeon/MyGrandMum) |![jetpackCompose](https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black)||![OCR](https://img.shields.io/badge/-OCR-7F52FF.svg?style=flat&logoColor=white) ![TTS](https://img.shields.io/badge/-TTS-F05138.svg?logoColor=white)|
+|[GrandMum](https://github.com/Lee-JuYeon/MyGrandMum) |![jetpackCompose](https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black)|||
 |[LOL Revenge](https://github.com/Lee-JuYeon/LOL_Revenge)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![supabase](https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white)||
+|[Dokdo-Mail](https://github.com/Lee-JuYeon/Dokdo_Mail) |![js](https://img.shields.io/badge/-Javascript-1572B6.svg?style=flat&logo=javascript&color=black)|||
+
 
 
 
