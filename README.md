@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 :---|:---|:---|:---|
 |[PiPE](https://github.com/Lee-JuYeon/PiPE)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|![GraphQL](https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white) ![Apollo](https://img.shields.io/badge/-Apollo-311C87.svg?style=flat&logo=ApolloGraphQL&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)|![LangChain](https://img.shields.io/badge/-🦜🔗_LangChain-FFFFFF.svg?style=flat&logoColor=white)
 |[MEYOU](https://github.com/Lee-JuYeon/MEYOU)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white)|![firebase](https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white)||
-|[LessonDiary](https://github.com/Lee-JuYeon/LessonDiary)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|||
-|[ZZILIT](https://github.com/Lee-JuYeon/ZZILIT)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&color=02569B)||
+|[AR Travel](https://github.com/Lee-JuYeon/LessonDiary)|![android](https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black) ![ios](https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black)|||
+|[Habbit](https://github.com/Lee-JuYeon/ZZILIT)|![flutter](https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&color=02569B)||
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 |[Mono Camera Depth](https://github.com/Lee-JuYeon/MonoCameraDepth)|||
 |[Android Permission](https://github.com/Lee-JuYeon/MonoCameraDepth)|![android](https://img.shields.io/badge/-Android-02569B.svg?style=flat&logo=android&color=black) ![kotlin](https://img.shields.io/badge/-Kotlin-000000.svg?style=flat&logo=kotlin&color=7F52FF&logoColor=white)||
