@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 **👨🏻‍💻 Tech-Blog**|**✍🏻 Study**|**✉️  E-mail**|
 :--:|:--:|:--:|
-|[![Tech-Blog](https://img.shields.io/badge/-Tech-Blog-000000.svg?style=flat&logo=Tistory&color=black)](https://lee-juyeon.github.io/)|[![Study](https://img.shields.io/badge/-Study-000000.svg?style=flat&logo=Github&color=black)](https://github.com/Lee-JuYeon/Study) |[![Email](https://img.shields.io/badge/-Gmail-EA4335.svg?style=flat&logo=Gmail&color=black)](mailto:redpond2@naver.com)
+|[![Tech-Blog](https://img.shields.io/badge/-Tistory-000000.svg?style=flat&logo=Tistory&color=black)](https://lee-juyeon.github.io/)|[![Study](https://img.shields.io/badge/-Study-000000.svg?style=flat&logo=Github&color=black)](https://github.com/Lee-JuYeon/Study) |[![Email](https://img.shields.io/badge/-Gmail-EA4335.svg?style=flat&logo=Gmail&color=black)](mailto:redpond2@naver.com)
 
 
 **🦄 Private Project**|**Front End**|**Back End**|**Tech**|
