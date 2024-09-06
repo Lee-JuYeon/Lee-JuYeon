@@ -39,18 +39,18 @@
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-💰 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-🌾 Tori Tori|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-🕶️ Mully|![XML] ![UIKit]|||
-👕 Willee|![XML] ![UIKit] ![JavaScript]|||
-🧑🏻‍🏫 집현전|![XML] ![UIKit] ![JavaScript]|||
-👟 갓생|![Flutter]|![Firebase]||
-🗓️ 스케쥴러|![Flutter]|![Firebase]||
-🖥️ 컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-🏠 3D 부동산|![XML] ![UIKit] ![JavaScript]|||
-🗺️ 여행 전용 맵|![XML] ![UIKit]|||
-✝️ 교회 주보|![XML] ![UIKit] ![JavaScript]|||
-🎤 LessonDiary|![JetpackCompose] ![SwiftUI]|||
+PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
+Tori Tori|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+Mully|![XML] ![UIKit]|||
+Willee|![XML] ![UIKit] ![JavaScript]|||
+집현전|![XML] ![UIKit] ![JavaScript]|||
+갓생|![Flutter]|![Firebase]||
+스케쥴러|![Flutter]|![Firebase]||
+컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+3D 부동산|![XML] ![UIKit] ![JavaScript]|||
+여행 전용 맵|![XML] ![UIKit]|||
+교회 주보|![XML] ![UIKit] ![JavaScript]|||
+LessonDiary|![JetpackCompose] ![SwiftUI]|||
 
 **🧸 Toy Project**|**Tech**||**👨🏻‍💻 Hackathon**|**Organizer**|
 :---|:---|:---|:---|:---|
