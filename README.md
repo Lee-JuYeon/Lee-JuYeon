@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
+</div>
+
 [Tech-Blog_URL]: https://cavss-study.tistory.com/
 [Email_URL]: mailto:redpond2@naver.com
 
@@ -30,11 +34,6 @@
 [LLM]: https://img.shields.io/badge/-🦜🔗_LLM-FFFFFF.svg?style=flat&logoColor=white
 
 # 🇰🇷 JuYeon Lee [![Tech-Blog-Badge]][Tech-Blog_URL] [![Email-Badge]][Email_URL]
-
-
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
-</div>
 
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
