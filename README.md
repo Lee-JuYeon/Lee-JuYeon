@@ -57,14 +57,14 @@
 [Tori Tori][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 [Mully][Mully_URL]|![XML] ![UIKit]|||
 [Willee][Willee_URL]|![XML] ![UIKit] ![JavaScript]|||
-집현전|![XML] ![UIKit] ![JavaScript]|||
-[갓생][갓생_URL]|![Flutter]|![Firebase]||
-스케쥴러|![Flutter]|![Firebase]||
+강의플랫폼|![XML] ![UIKit] ![JavaScript]|||
+[취미][갓생_URL]|![Flutter]|![Firebase]||
+메모달력|![Flutter]|![Firebase]||
 컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-3D 부동산|![XML] ![UIKit] ![JavaScript]|||
-여행 전용 맵|![XML] ![UIKit]|||
-[교회 주보][교회주보_URL]|![XML] ![UIKit] ![JavaScript]|||
-[LessonDiary][LessonDiary_URL]|![JetpackCompose] ![SwiftUI]|||
+부동산|![XML] ![UIKit] ![JavaScript]|||
+여행 지도|![XML] ![UIKit]|||
+[주보][교회주보_URL]|![XML] ![UIKit] ![JavaScript]|||
+[노래연습][LessonDiary_URL]|![JetpackCompose] ![SwiftUI]|||
 
 **🧸 Toy Project**|**Tech**||**👨🏻‍💻 Hackathon**|**Organizer**|
 :---|:---|:---|:---|:---|
