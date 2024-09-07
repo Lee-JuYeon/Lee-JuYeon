@@ -33,32 +33,51 @@
 <!-- AI -->
 [LLM]: https://img.shields.io/badge/-🦜🔗_LLM-FFFFFF.svg?style=flat&logoColor=white
 
+<!-- Main 레파지토리 url -->
+[PiPE_URL]: https://github.com/Lee-JuYeon/PIPE
+[ToriTori_URL]: shttps://github.com/Lee-JuYeon/Agriculture
+[Mully_URL]: https://github.com/Lee-JuYeon/AR_Travel
+[갓생_URL]: https://github.com/Lee-JuYeon/Habbit
+[LessonDiary_URL]: https://github.com/Lee-JuYeon/LessonDiary
+[Willee_URL]: https://github.com/Lee-JuYeon/MEYOU
+[교회주보_URL]: https://github.com/Lee-JuYeon/HealthManager
+<!-- Toy 레파지토리 url -->
+[큰손지_URL]: https://github.com/Lee-JuYeon/MyGrandMum
+[Dokdo-Mail_URL]: https://github.com/Lee-JuYeon/Dokdo_Mail
+
+<!-- Hackathon 레파지토리 url -->
+[Emergency Room Finder_URL]: https://github.com/Lee-JuYeon/HospitalFinder
+[Food Recycling_URL]: https://github.com/Lee-JuYeon/FoodCycling
 # 🇰🇷 JuYeon Lee [![Tech-Blog-Badge]][Tech-Blog_URL] [![Email-Badge]][Email_URL]
 
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-Tori Tori|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-Mully|![XML] ![UIKit]|||
-Willee|![XML] ![UIKit] ![JavaScript]|||
+[PiPE][PiPE_URL]|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
+[Tori Tori][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+[Mully][Mully_URL]|![XML] ![UIKit]|||
+[Willee][Willee_URL]|![XML] ![UIKit] ![JavaScript]|||
 집현전|![XML] ![UIKit] ![JavaScript]|||
-갓생|![Flutter]|![Firebase]||
+[갓생][갓생_URL]|![Flutter]|![Firebase]||
 스케쥴러|![Flutter]|![Firebase]||
 컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 3D 부동산|![XML] ![UIKit] ![JavaScript]|||
 여행 전용 맵|![XML] ![UIKit]|||
-교회 주보|![XML] ![UIKit] ![JavaScript]|||
-LessonDiary|![JetpackCompose] ![SwiftUI]|||
+[교회 주보][교회주보_URL]|![XML] ![UIKit] ![JavaScript]|||
+[LessonDiary][LessonDiary_URL]|![JetpackCompose] ![SwiftUI]|||
 
 **🧸 Toy Project**|**Tech**||**👨🏻‍💻 Hackathon**|**Organizer**|
 :---|:---|:---|:---|:---|
-큰손지|![JetpackCompose]||(2024) Emergency Room Finder|🇰🇷 디지털 사회혁신|
-Dokdo-Mail|![JavaScript]||(2024) Disaster map|🇰🇷 K-PaaS|
-||||Food Recycling||
+[큰손지][큰손지_URL]|![JetpackCompose]||[(2024) Emergency Room Finder][Emergency Room Finder_URL]|🇰🇷 디지털 사회혁신|
+[Dokdo-Mail][Dokdo-Mail_URL]|![JavaScript]||(2024) Disaster map|🇰🇷 K-PaaS|
+||||[Food Recycling][Food Recycling_URL]||
 ||||Gold Sea||
 ||||Angel Coupon||
 ||||Watching Tree||
 ||||Greate Eyes||
+
+
+
+
 
 
