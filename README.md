@@ -35,7 +35,7 @@
 
 <!-- Main 레파지토리 url -->
 [PiPE_URL]: https://github.com/Lee-JuYeon/PIPE
-[ToriTori_URL]: shttps://github.com/Lee-JuYeon/Agriculture
+[ToriTori_URL]: https://github.com/Lee-JuYeon/Agriculture
 [Mully_URL]: https://github.com/Lee-JuYeon/AR_Travel
 [갓생_URL]: https://github.com/Lee-JuYeon/Habbit
 [LessonDiary_URL]: https://github.com/Lee-JuYeon/LessonDiary
