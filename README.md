@@ -54,18 +54,17 @@
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 [PiPE][PiPE_URL]|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-[Tori Tori][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-[Mully][Mully_URL]|![XML] ![UIKit]|||
 [Willee][Willee_URL]|![XML] ![UIKit] ![JavaScript]|||
+[주보][교회주보_URL]|![XML] ![UIKit] ![JavaScript]|||
 강의플랫폼|![XML] ![UIKit] ![JavaScript]|||
+부동산|![XML] ![UIKit] ![JavaScript]|||
+[Mully][Mully_URL]|![XML] ![UIKit]|||
+여행 지도|![XML] ![UIKit]|||
+[Agriculture][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+[노래연습][LessonDiary_URL]|![JetpackCompose] ![SwiftUI]|||
 [취미][갓생_URL]|![Flutter]|![Firebase]||
 메모달력|![Flutter]|![Firebase]||
-컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-부동산|![XML] ![UIKit] ![JavaScript]|||
-여행 지도|![XML] ![UIKit]|||
-[주보][교회주보_URL]|![XML] ![UIKit] ![JavaScript]|||
-[노래연습][LessonDiary_URL]|![JetpackCompose] ![SwiftUI]|||
-
 **🧸 Toy Project**|**Tech**||**👨🏻‍💻 Hackathon**|**Organizer**|
 :---|:---|:---|:---|:---|
 [큰손지][큰손지_URL]|![JetpackCompose]||[(2024) Emergency Room Finder][Emergency Room Finder_URL]|🇰🇷 디지털 사회혁신|
