@@ -68,8 +68,8 @@
 
 |**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
 :---|:---|:---|:---|
-|[(🇰🇷 2024, 디지털사회혁신) Emergency Room Finder][Emergency Room Finder_URL]|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
-|~~(🇰🇷 2024, K-PaaS) Disaster map~~|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
+|~~(🇰🇷 2024, K-PaaS) Disaster map~~|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
+|~~[(🇰🇷 2025,) Emergency Room Finder][Emergency Room Finder_URL]~~|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
 |~~[(2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~홈브루 서버배포~~|
 |~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~NGO 지출관리~~|
 |~~(2025,) Forest Fire Monitoring tree~~|~~(79dle) 공포이야기~~|~~High Compression Audio~~|~~치지직 스트리머용~~|
