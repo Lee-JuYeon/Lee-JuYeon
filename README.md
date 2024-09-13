@@ -53,27 +53,28 @@
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-[PiPE][PiPE_URL]|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-[Clothes][Willee_URL]|![XML] ![UIKit] ![JavaScript]|||
-강의플랫폼|![XML] ![UIKit] ![JavaScript]|||
-부동산|![XML] ![UIKit] ![JavaScript]|||
-[주보][교회주보_URL]|![XML] ![UIKit] ![JavaScript]|||
-여행 지도|![XML] ![UIKit]|||
-[AR][Mully_URL]|![XML] ![UIKit]|||
+~~[PiPE][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
+~~[Clothes][Willee_URL]~~|![XML] ![UIKit] ![JavaScript]|||
+~~강의플랫폼~~|![XML] ![UIKit] ![JavaScript]|||
+~~부동산~~|![XML] ![UIKit] ![JavaScript]|||
+~~[주보][교회주보_URL]~~|![XML] ![UIKit] ![JavaScript]|||
+~~여행 지도~~|![XML] ![UIKit]|||
+~~[AR][Mully_URL]~~|![XML] ![UIKit]|||
 [Agriculture][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-컴퓨터 판매|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-[노래연습][LessonDiary_URL]|![JetpackCompose] ![SwiftUI]|||
-[취미][갓생_URL]|![Flutter]|![Firebase]||
-메모달력|![Flutter]|![Firebase]||
+~~컴퓨터 판매~~|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+~~[노래연습][LessonDiary_URL]~~|![JetpackCompose] ![SwiftUI]|||
+~~[취미][갓생_URL]~~|![Flutter]|![Firebase]||
+~~메모달력~~|![Flutter]|![Firebase]||
 
 |**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
 :---|:---|:---|:---|
-|[(🇰🇷 2024, 디지털사회혁신) Emergency Room Finder][Emergency Room Finder_URL]|(79dle) 헤화역|Mono Camera Depth|[큰손지][큰손지_URL]|![JetpackCompose]|
-|(🇰🇷 2024, K-PaaS) Disaster map|(79dle) 우치|Mono Camera AR|[Dokdo-Mail][Dokdo-Mail_URL]|
-|[(2025,)Food Recycling][Food Recycling_URL]|(79dle) 미호|Mono Camera VR|홈브루 서버배포|
-|(2025,)Gold Sea|(79dle) 배틀쉽|High Compression Video|NGO 지출관리|
-|(2025,)Watching Tree|(79dle) 공포이야기|High Compression Audio|치지직 스트리머용|
-|(2025,)Greate Eyes|||찌릿|
+|[(🇰🇷 2024, 디지털사회혁신) Emergency Room Finder][Emergency Room Finder_URL]|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
+|~~(🇰🇷 2024, K-PaaS) Disaster map~~|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
+|~~[(2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~홈브루 서버배포~~|
+|~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~NGO 지출관리~~|
+|~~(2025,) Forest Fire Monitoring tree~~|~~(79dle) 공포이야기~~|~~High Compression Audio~~|~~치지직 스트리머용~~|
+|~~(2025,) Sattelite~~|||~~찌릿~~|
+
 
 
 
