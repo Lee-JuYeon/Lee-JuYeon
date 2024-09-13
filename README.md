@@ -66,15 +66,14 @@
 [취미][갓생_URL]|![Flutter]|![Firebase]||
 메모달력|![Flutter]|![Firebase]||
 
-**🧸 Toy Project**|**Tech**||**👨🏻‍💻 Hackathon**|**Organizer**|
-:---|:---|:---|:---|:---|
-[큰손지][큰손지_URL]|![JetpackCompose]||[(2024) Emergency Room Finder][Emergency Room Finder_URL]|🇰🇷 디지털 사회혁신|
-[Dokdo-Mail][Dokdo-Mail_URL]|![JavaScript]||(2024) Disaster map|🇰🇷 K-PaaS|
-||||[Food Recycling][Food Recycling_URL]||
-||||Gold Sea||
-||||Angel Coupon||
-||||Watching Tree||
-||||Greate Eyes||
+|**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
+:---|:---|:---|:---|
+|[(🇰🇷 2024, 디지털사회혁신) Emergency Room Finder][Emergency Room Finder_URL]|(79dle) 헤화역|Mono Camera Depth|[큰손지][큰손지_URL]|![JetpackCompose]|
+|(🇰🇷 2024, K-PaaS) Disaster map|(79dle) 우치|Mono Camera AR|[Dokdo-Mail][Dokdo-Mail_URL]|
+|[(2025,)Food Recycling][Food Recycling_URL]|(79dle) 미호|Mono Camera VR|홈브루 서버배포|
+|(2025,)Gold Sea|(79dle) 배틀쉽|High Compression Video|NGO 지출관리|
+|(2025,)Watching Tree|(79dle) 공포이야기|High Compression Audio|치지직 스트리머용|
+|(2025,)Greate Eyes|||찌릿|
 
 
 
