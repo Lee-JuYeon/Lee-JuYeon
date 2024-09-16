@@ -39,7 +39,7 @@
 [Mully_URL]: https://github.com/Lee-JuYeon/AR_Travel
 [갓생_URL]: https://github.com/Lee-JuYeon/Habbit
 [LessonDiary_URL]: https://github.com/Lee-JuYeon/LessonDiary
-[Willee_URL]: https://github.com/Lee-JuYeon/MEYOU
+[EcoFriendlyStore_URL]: https://github.com/Lee-JuYeon/EcoFriendlyStore
 [교회주보_URL]: https://github.com/Lee-JuYeon/HealthManager
 <!-- Toy 레파지토리 url -->
 [큰손지_URL]: https://github.com/Lee-JuYeon/MyGrandMum
@@ -54,13 +54,13 @@
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 ~~[PiPE][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-~~[Clothes][Willee_URL]~~|![XML] ![UIKit] ![JavaScript]|||
 ~~강의플랫폼~~|![XML] ![UIKit] ![JavaScript]|||
 ~~부동산~~|![XML] ![UIKit] ![JavaScript]|||
 ~~[주보][교회주보_URL]~~|![XML] ![UIKit] ![JavaScript]|||
 ~~여행 지도~~|![XML] ![UIKit]|||
 ~~[AR][Mully_URL]~~|![XML] ![UIKit]|||
 [Agriculture][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+[EcoFriendlyStore][EcoFriendlyStore_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~컴퓨터 판매~~|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~[노래연습][LessonDiary_URL]~~|![JetpackCompose] ![SwiftUI]|||
 ~~[취미][갓생_URL]~~|![Flutter]|![Firebase]||
@@ -69,12 +69,15 @@
 |**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
 :---|:---|:---|:---|
 |~~[(🇰🇷 2024, K-PaaS) Emergency Room Finder][Emergency Room Finder_URL]~~|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
-|~~(🇰🇷 2025,) Disaster Map~~|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
+|[(🇰🇷 2024, 피우다 프로젝트) EcoFriendlyStore][EcoFriendlyStore_URL]|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
 |~~[(2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~홈브루 서버배포~~|
 |~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~NGO 지출관리~~|
 |~~(2025,) Forest Fire Monitoring tree~~|~~(79dle) 공포이야기~~|~~High Compression Audio~~|~~치지직 스트리머용~~|
 |~~(2025,) Sattelite~~|||~~찌릿~~|
 |~~(2025,) Beach Tree~~||||
+|~~(2025,) Disaster Mape~~||||
+
+
 
 
 
