@@ -71,11 +71,12 @@
 |~~[(🇰🇷 2024, K-PaaS) Emergency Room Finder][Emergency Room Finder_URL]~~|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
 |[(🇰🇷 2024, 피우다 프로젝트) EcoFriendlyStore][EcoFriendlyStore_URL]|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
 |~~[(2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~홈브루 서버배포~~|
-|~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~NGO 지출관리~~|
+|~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~부자 커뮤니티~~|
 |~~(2025,) Forest Fire Monitoring tree~~|~~(79dle) 공포이야기~~|~~High Compression Audio~~|~~치지직 스트리머용~~|
 |~~(2025,) Sattelite~~|||~~찌릿~~|
-|~~(2025,) Beach Tree~~||||
-|~~(2025,) Disaster Mape~~||||
+|~~(2025,) Beach Tree~~|||~~GPT 웹 번역~~|
+|~~(2025,) Disaster Mape~~|||~~장사가이드~~|
+
 
 
 
