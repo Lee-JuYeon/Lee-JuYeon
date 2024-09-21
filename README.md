@@ -73,7 +73,7 @@
 |~~[(2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~홈브루 서버배포~~|
 |~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~부자 커뮤니티~~|
 |~~(2025,) Forest Fire Monitoring tree~~|~~(79dle) 공포이야기~~|~~High Compression Audio~~|~~치지직 스트리머용~~|
-|~~(2025,) Sattelite~~|||~~찌릿~~|
+|~~(2025,) Sattelite~~|~~(79dle) 산악구조 장산범~~||~~찌릿~~|
 |~~(2025,) Beach Tree~~|||~~GPT 웹 번역~~|
 |~~(2025,) Disaster Mape~~|||~~장사가이드~~|
 
