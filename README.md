@@ -53,18 +53,17 @@
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-~~[PiPE][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
+~~[정보공유][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
 ~~강의플랫폼~~|![XML] ![UIKit] ![JavaScript]|||
 ~~부동산~~|![XML] ![UIKit] ![JavaScript]|||
 ~~[주보][교회주보_URL]~~|![XML] ![UIKit] ![JavaScript]|||
 ~~여행 지도~~|![XML] ![UIKit]|||
 ~~[AR][Mully_URL]~~|![XML] ![UIKit]|||
-[Agriculture][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
-[EcoFriendlyStore][EcoFriendlyStore_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+[농업][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~컴퓨터 판매~~|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~[노래연습][LessonDiary_URL]~~|![JetpackCompose] ![SwiftUI]|||
 ~~[취미][갓생_URL]~~|![Flutter]|![Firebase]||
-~~메모달력~~|![Flutter]|![Firebase]||
+~~메모+달력~~|![Flutter]|![Firebase]||
 
 |**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
 :---|:---|:---|:---|
@@ -76,6 +75,11 @@
 |~~(2025,) Sattelite~~|~~(79dle) 산악구조 장산범~~||~~찌릿~~|
 |~~(2025,) Beach Tree~~|||~~GPT 웹 번역~~|
 |~~(2025,) Disaster Mape~~|||~~장사가이드~~|
+
+
+
+
+
 
 
 
