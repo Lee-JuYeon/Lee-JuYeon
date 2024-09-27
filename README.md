@@ -44,6 +44,8 @@
 <!-- Toy 레파지토리 url -->
 [큰손지_URL]: https://github.com/Lee-JuYeon/MyGrandMum
 [Dokdo-Mail_URL]: https://github.com/Lee-JuYeon/Dokdo_Mail
+[성공학_URL]: https://github.com/Lee-JuYeon/BeRichCommunity
+[찌릿_URL]: https://github.com/Lee-JuYeon/ZZILIT
 
 <!-- Hackathon 레파지토리 url -->
 [Emergency Room Finder_URL]: https://github.com/Lee-JuYeon/HospitalFinder
@@ -60,6 +62,7 @@
 ~~여행 지도~~|![XML] ![UIKit]|||
 ~~[AR][Mully_URL]~~|![XML] ![UIKit]|||
 [농업][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
+[EcoFriendlyStore][EcoFriendlyStore_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|![Firebase]||
 ~~컴퓨터 판매~~|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~[노래연습][LessonDiary_URL]~~|![JetpackCompose] ![SwiftUI]|||
 ~~[취미][갓생_URL]~~|![Flutter]|![Firebase]||
@@ -70,14 +73,11 @@
 |~~[(🇰🇷 2024, K-PaaS) Emergency Room Finder][Emergency Room Finder_URL]~~|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
 |[(🇰🇷 2024, 피우다 프로젝트) EcoFriendlyStore][EcoFriendlyStore_URL]|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[Dokdo-Mail][Dokdo-Mail_URL]~~|
 |~~[(2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~홈브루 서버배포~~|
-|~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~부자 커뮤니티~~|
+|~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~[RichCommunity][성공학_URL]~~|
 |~~(2025,) Forest Fire Monitoring tree~~|~~(79dle) 공포이야기~~|~~High Compression Audio~~|~~치지직 스트리머용~~|
-|~~(2025,) Sattelite~~|~~(79dle) 산악구조 장산범~~||~~찌릿~~|
+|~~(2025,) Sattelite~~|~~(79dle) 산악구조 장산범~~||~~[찌릿][찌릿_URL]~~|
 |~~(2025,) Beach Tree~~|||~~GPT 웹 번역~~|
-|~~(2025,) Disaster Mape~~|||~~장사가이드~~|
-
-
-
+|~~(2025,) Disaster Map~~|||~~장사가이드~~|
 
 
 
