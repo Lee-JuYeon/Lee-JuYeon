@@ -41,6 +41,7 @@
 [LessonDiary_URL]: https://github.com/Lee-JuYeon/LessonDiary
 [EcoFriendlyStore_URL]: https://github.com/Lee-JuYeon/EcoFriendlyStore
 [교회주보_URL]: https://github.com/Lee-JuYeon/HealthManager
+[뉴스공부_URL]: https://github.com/Lee-JuYeon/NewsStudy
 <!-- Toy 레파지토리 url -->
 [큰손지_URL]: https://github.com/Lee-JuYeon/MyGrandMum
 [Dokdo-Mail_URL]: https://github.com/Lee-JuYeon/Dokdo_Mail
@@ -65,6 +66,7 @@
 [EcoFriendlyStore][EcoFriendlyStore_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|![Firebase]||
 ~~컴퓨터 판매~~|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~[노래연습][LessonDiary_URL]~~|![JetpackCompose] ![SwiftUI]|||
+[뉴스공부][뉴스공부_URL]|![JetpackCompose] ![SwiftUI]|![Firebase]||
 ~~[취미][갓생_URL]~~|![Flutter]|![Firebase]||
 ~~메모+달력~~|![Flutter]|![Firebase]||
 
@@ -78,7 +80,6 @@
 |~~(2025,) Sattelite~~|~~(79dle) 산악구조 장산범~~||~~[찌릿][찌릿_URL]~~|
 |~~(2025,) Beach Tree~~|||~~GPT 웹 번역~~|
 |~~(2025,) Disaster Map~~|||~~장사가이드~~|
-
 
 
 
