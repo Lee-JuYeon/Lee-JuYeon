@@ -8,6 +8,7 @@
 [Tech-Blog-Badge]: https://img.shields.io/badge/-Tech_Blog-ffffff.svg?style=for-the-badge&logo=Tistory&color=black
 [Email-Badge]: https://img.shields.io/badge/-Gmail-ffffff.svg?style=for-the-badge&logo=Gmail&color=black
 
+
 <!-- native ( Android ) -->
 [XML]: https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black
 [JetpackCompose]: https://img.shields.io/badge/-Compose-3DDC84.svg?style=flat&logo=android&color=black
@@ -17,9 +18,11 @@
 [UIKit]: https://img.shields.io/badge/-UIKit-02569B.svg?style=flat&logo=swift&color=black
 [SwiftUI]: https://img.shields.io/badge/-SwiftUI-3DDC84.svg?style=flat&logo=swift&color=black
 
+<!-- Web -->
 [Flutter]: https://img.shields.io/badge/-Flutter-02569B.svg?style=flat&logo=flutter&logoColor=white
-
+[React]: https://img.shields.io/badge/-React-61DAFB.svg?style=flat&logo=react&color=black
 [JavaScript]: https://img.shields.io/badge/-Javascript-1572B6.svg?style=flat&logo=javascript&color=black
+
 
 <!-- Server ( API ) -->
 [GraphQL]: https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white
@@ -42,6 +45,8 @@
 [EcoFriendlyStore_URL]: https://github.com/Lee-JuYeon/EcoFriendlyStore
 [교회주보_URL]: https://github.com/Lee-JuYeon/HealthManager
 [뉴스공부_URL]: https://github.com/Lee-JuYeon/NewsStudy
+[부동산_URL]: https://github.com/Lee-JuYeon/3D_RealEstate
+
 <!-- Toy 레파지토리 url -->
 [큰손지_URL]: https://github.com/Lee-JuYeon/MyGrandMum
 [Dokdo-Mail_URL]: https://github.com/Lee-JuYeon/Dokdo_Mail
@@ -58,7 +63,6 @@
 :---|:---|:---|:---|
 ~~[정보공유][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
 ~~강의플랫폼~~|![XML] ![UIKit] ![JavaScript]|||
-~~부동산~~|![XML] ![UIKit] ![JavaScript]|||
 ~~[주보][교회주보_URL]~~|![XML] ![UIKit] ![JavaScript]|||
 ~~여행 지도~~|![XML] ![UIKit]|||
 ~~[AR][Mully_URL]~~|![XML] ![UIKit]|||
@@ -66,9 +70,10 @@
 [EcoFriendlyStore][EcoFriendlyStore_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|![Firebase]||
 ~~컴퓨터 판매~~|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
 ~~[노래연습][LessonDiary_URL]~~|![JetpackCompose] ![SwiftUI]|||
-[뉴스공부][뉴스공부_URL]|![JetpackCompose] ![SwiftUI]|![Firebase]||
+[뉴스공부][뉴스공부_URL]|![JetpackCompose] ![SwiftUI] ![Flutter] |![Firebase]||
 ~~[취미][갓생_URL]~~|![Flutter]|![Firebase]||
 ~~메모+달력~~|![Flutter]|![Firebase]||
+~~[부동산][부동산_URL]~~|![React]|||
 
 |**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
 :---|:---|:---|:---|
@@ -80,9 +85,6 @@
 |~~(2025,) Sattelite~~|~~(79dle) 산악구조 장산범~~||~~[찌릿][찌릿_URL]~~|
 |~~(2025,) Beach Tree~~|||~~GPT 웹 번역~~|
 |~~(2025,) Disaster Map~~|||~~장사가이드~~|
-
-
-
 
 
 
