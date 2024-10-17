@@ -63,7 +63,7 @@
 :---|:---|:---|:---|
 ~~[💎 정보공유][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
 ~~💰 강의플랫폼~~|![XML] ![UIKit] ![JavaScript]|||
-~~[주보][교회주보_URL]~~|![XML] ![UIKit] ![JavaScript]|||
+<!-- ~~[주보][교회주보_URL]~~|![XML] ![UIKit] ![JavaScript]||| -->
 ~~😎 여행 지도~~|![XML] ![UIKit]|||
 ~~[😎 AR][Mully_URL]~~|![XML] ![UIKit]|||
 [🌾 농업][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
