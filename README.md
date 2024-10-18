@@ -62,7 +62,6 @@
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 ~~[💎 정보공유][PiPE_URL]~~|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-~~💰 강의플랫폼~~|![XML] ![UIKit] ![JavaScript]|||
 ~~😎 여행 지도~~|![XML] ![UIKit]|||
 ~~[😎 AR][Mully_URL]~~|![XML] ![UIKit]|||
 [🌾 농업][ToriTori_URL]|![JetpackCompose] ![SwiftUI] ![JavaScript]|||
@@ -74,7 +73,7 @@
 
 |**👨🏻‍💻 Hackathon**|**🎮 Game Project**|**🆓 OpenSource**|**🧸 Toy Project**|
 :---|:---|:---|:---|
-|~~[💎 (🇰🇷 2024, K-PaaS) Emergency Room Finder][Emergency Room Finder_URL]~~|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
+|[💎 (🇰🇷 2024, K-PaaS) Emergency Room Finder][Emergency Room Finder_URL]|~~(79dle) 헤화역~~|~~Mono Camera Depth~~|[큰손지][큰손지_URL]|![JetpackCompose]|
 |[(🇰🇷 2024, 피우다 프로젝트) EcoFriendlyStore][EcoFriendlyStore_URL]|~~(79dle) 우치~~|~~Mono Camera AR~~|~~[취미][갓생_URL]~~|
 |~~[🌾 (2025,) Food waste Recycling][Food Recycling_URL]~~|~~(79dle) 미호~~|~~Mono Camera VR~~|~~[주보][교회주보_URL]~~|
 |~~(2025,) Plastic Recycling~~|~~(79dle) 배틀쉽~~|~~High Compression Video~~|~~[💰 RichCommunity][성공학_URL]~~|
