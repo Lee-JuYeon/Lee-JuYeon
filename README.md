@@ -20,12 +20,16 @@
 <!-- Web -->
 [React]: https://img.shields.io/badge/-React-61DAFB.svg?style=flat&logo=react&color=black
 [JavaScript]: https://img.shields.io/badge/-Javascript-1572B6.svg?style=flat&logo=javascript&color=black
+[TypeScript]: https://img.shields.io/badge/-TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white
+[HTML]: https://img.shields.io/badge/-HTML-E34F26.svg?style=flat&logo=html5&logoColor=white
+[CSS]: https://img.shields.io/badge/-CSS-1572B6.svg?style=flat&logo=css3&logoColor=white
 
 <!-- Server ( API ) -->
 [GraphQL]: https://img.shields.io/badge/-GraphQL-E10098.svg?style=flat&logo=GraphQL&logoColor=white
 [Apollo]: https://img.shields.io/badge/-Apollo-311C87.svg?style=flat&logo=ApolloGraphQL&logoColor=white
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white
 [SpringBoot]: https://img.shields.io/badge/-SpringBoot-6DB33F.svg?style=flat&logo=springboot&logoColor=white
+[Cloudflare]: https://img.shields.io/badge/-Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white
 
 <!-- Server ( Cloud ) -->
 [Firebase]: https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white
@@ -38,9 +42,9 @@
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-💎 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL]|![LLM]|
-🗺️ Nunulala|![JetpackCompose] ![SwiftUI]|![Firebase]||
-🎵 Beethovain|![JetpackCompose] ![SwiftUI]|||
+💎 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![LLM]|
+🗺️ Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
+🎵 Beethovain|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]||
 👟 FootHeart|![JetpackCompose] ![SwiftUI]|||
 
 **🤝 Team Project**|**Front End**|**Back End**|**Tech**|
@@ -49,7 +53,7 @@
 
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-BifBoss||||
+BigBoss OS||||
 Consigliere||||
 Android BLE|![XML] ![Kotlin]|||
 
