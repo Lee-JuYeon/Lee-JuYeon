@@ -30,21 +30,23 @@
 [PostgreSQL]: https://img.shields.io/badge/-PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white
 [SpringBoot]: https://img.shields.io/badge/-SpringBoot-6DB33F.svg?style=flat&logo=springboot&logoColor=white
 [Cloudflare]: https://img.shields.io/badge/-Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white
+[Vercel]: https://img.shields.io/badge/-Vercel-000000.svg?style=flat&logo=vercel&logoColor=white
 
 <!-- Server ( Cloud ) -->
 [Firebase]: https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white
 [Supabase]: https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white
 
 <!-- AI -->
-[LLM]: https://img.shields.io/badge/-🦜🔗_LLM-FFFFFF.svg?style=flat&logoColor=white
+[Claude]: https://img.shields.io/badge/-Claude-D4A27F.svg?style=flat&logo=anthropic&logoColor=white
+[Gemma]: https://img.shields.io/badge/-Gemma-4285F4.svg?style=flat&logo=google&logoColor=white
 
 # 🇰🇷 JuYeon Lee [![Tech-Blog-Badge]][Tech-Blog_URL] [![Email-Badge]][Email_URL]
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-💎 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![LLM]|
+💎 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![Claude]|
 🗺️ Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
-🎵 Beethovain|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]||
+🎵 Beethovain|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
 👟 FootHeart|![JetpackCompose] ![SwiftUI]|||
 
 **🤝 Team Project**|**Front End**|**Back End**|**Tech**|
@@ -53,10 +55,10 @@
 
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-BigBoss OS||||
-Consigliere||||
-Android BLE|![XML] ![Kotlin]|||
+BigBoss OS|![SwiftUI] ![JetpackCompose]|![Supabase] ![Vercel]|![Claude] ![Gemma]|
+Consigliere|||![Claude]|
+Android BLE|![XML] ![Kotlin]||![Claude]|
 
 **🔌 Chrome Extension**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-Chieply|![JavaScript]|||
+Chieply|![JavaScript]||![Claude]|
