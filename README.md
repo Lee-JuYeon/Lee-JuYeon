@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
 </div>
 
-[Tech-Blog_URL]: https://cavss-study.tistory.com/
+[Tech-Blog_URL]: https://juyeon-lee.com/#tech-notes
 [Email_URL]: mailto:redpond2@naver.com
 
 [Tech-Blog-Badge]: https://img.shields.io/badge/-Tech_Blog-ffffff.svg?style=for-the-badge&logo=Tistory&color=black
