@@ -44,14 +44,14 @@
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-💎 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![Claude]|
-🗺️ Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
-🎵 Beethovain|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
-👟 FootHeart|![JetpackCompose] ![SwiftUI]|||
+PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![Claude]|
+Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
+Beethovain|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
+FootHeart|![JetpackCompose] ![SwiftUI]|||
 
 **🤝 Team Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-💑 Meetjyou|![XML] ![JetpackCompose] ![SwiftUI]|![SpringBoot]||
+Meetjyou|![XML] ![JetpackCompose] ![SwiftUI]|![SpringBoot]||
 
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
