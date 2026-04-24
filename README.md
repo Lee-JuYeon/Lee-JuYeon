@@ -3,6 +3,10 @@
 </div>
 
 [Tech-Blog_URL]: https://juyeon-lee.com/#tech-notes
+[Beethovain_URL]: https://beethovain.com
+[Chieply_URL]: https://chromewebstore.google.com/detail/chieply-ai-web-translator/hjkalgclafljgagbededaannenfjdkke?hl=ko&utm_source=ext_sidebar
+[BigBossOS_URL]: https://github.com/Lee-JuYeon/bigbossos
+[Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
 [Email_URL]: mailto:redpond2@naver.com
 
 [Tech-Blog-Badge]: https://img.shields.io/badge/-Tech_Blog-ffffff.svg?style=for-the-badge&logo=Tistory&color=black
@@ -46,7 +50,7 @@
 :---|:---|:---|:---|
 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![Claude]|
 Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
-Beethovain|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
+[Beethovain][Beethovain_URL]|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
 FootHeart|![JetpackCompose] ![SwiftUI]|||
 
 **🤝 Team Project**|**Front End**|**Back End**|**Tech**|
@@ -55,10 +59,10 @@ Meetjyou|![XML] ![JetpackCompose] ![SwiftUI]|![SpringBoot]||
 
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-BigBoss OS|![SwiftUI] ![JetpackCompose]|![Supabase] ![Vercel]|![Claude] ![Gemma]|
-Consigliere|||![Claude]|
+[BigBoss OS][BigBossOS_URL]|![SwiftUI] ![JetpackCompose]|![Supabase] ![Vercel]|![Claude] ![Gemma]|
+[Consigliere][Consigliere_URL]|||![Claude]|
 Android BLE|![XML] ![Kotlin]||![Claude]|
 
 **🔌 Chrome Extension**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-Chieply|![JavaScript]||![Claude]|
+[Chieply][Chieply_URL]|![JavaScript]||![Claude]|
