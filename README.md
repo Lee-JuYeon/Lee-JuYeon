@@ -7,10 +7,12 @@
 [Chieply_URL]: https://chromewebstore.google.com/detail/chieply-ai-web-translator/hjkalgclafljgagbededaannenfjdkke?hl=ko&utm_source=ext_sidebar
 [BigBossOS_URL]: https://github.com/Lee-JuYeon/bigbossos
 [Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
-[Email_URL]: mailto:redpond2@naver.com
+[Email_URL]: mailto:benedictarthur1026@gmail.com
+[Instagram_URL]: https://instagram.com/juyeon_lee1026
 
 [Tech-Blog-Badge]: https://img.shields.io/badge/-Tech_Blog-ffffff.svg?style=for-the-badge&logo=Tistory&color=black
 [Email-Badge]: https://img.shields.io/badge/-Gmail-ffffff.svg?style=for-the-badge&logo=Gmail&color=black
+[Instagram-Badge]: https://img.shields.io/badge/-Instagram-ffffff.svg?style=for-the-badge&logo=Instagram&color=black
 
 <!-- native ( Android ) -->
 [XML]: https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black
@@ -44,7 +46,7 @@
 [Claude]: https://img.shields.io/badge/-Claude-D4A27F.svg?style=flat&logo=anthropic&logoColor=white
 [Gemma]: https://img.shields.io/badge/-Gemma-4285F4.svg?style=flat&logo=google&logoColor=white
 
-# 🇰🇷 JuYeon Lee [![Tech-Blog-Badge]][Tech-Blog_URL] [![Email-Badge]][Email_URL]
+# 🇰🇷 JuYeon Lee [![Tech-Blog-Badge]][Tech-Blog_URL] [![Email-Badge]][Email_URL] [![Instagram-Badge]][Instagram_URL]
 
 **🦄 Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
