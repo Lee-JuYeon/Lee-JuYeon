@@ -2,17 +2,19 @@
   <img src="https://i.pinimg.com/originals/97/87/77/978777f3dbbe42ed7be1b3c09912ca6c.gif"/>
 </div>
 
-[Tech-Blog_URL]: https://juyeon-lee.com/#tech-notes
+[Portfolio_URL]: https://juyeon-lee.com/#thinking
 [Beethovain_URL]: https://beethovain.com
 [Chieply_URL]: https://chromewebstore.google.com/detail/chieply-ai-web-translator/hjkalgclafljgagbededaannenfjdkke?hl=ko&utm_source=ext_sidebar
-[BigBossOS_URL]: https://github.com/Lee-JuYeon/bigbossos
+[Nunulala_URL]: https://nunulala.com
+[BigBossOS_URL]: https://bigbossos.com
 [Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
+[Capomastro_URL]: https://github.com/Lee-JuYeon/Capomastro
 [Email_URL]: mailto:benedictarthur1026@gmail.com
 [Instagram_URL]: https://instagram.com/juyeon_lee1026
 
-[Tech-Blog-Badge]: https://img.shields.io/badge/-Tech_Blog-ffffff.svg?style=for-the-badge&logo=Tistory&color=black
-[Email-Badge]: https://img.shields.io/badge/-Gmail-ffffff.svg?style=for-the-badge&logo=Gmail&color=black
-[Instagram-Badge]: https://img.shields.io/badge/-Instagram-ffffff.svg?style=for-the-badge&logo=Instagram&color=black
+[Portfolio-Badge]: https://img.shields.io/badge/Portfolio-juyeonlee.com-black?style=flat&labelColor=FF6B00&logo=htmx&logoColor=white
+[Email-Badge]: https://img.shields.io/badge/Gmail-benedictarthur1026%40gmail.com-black?style=flat&labelColor=D14836&logo=gmail&logoColor=white
+[Instagram-Badge]: https://img.shields.io/badge/Instagram-@juyeon__lee1026-black?style=flat&labelColor=FF0069&logo=instagram&logoColor=white
 
 <!-- native ( Android ) -->
 [XML]: https://img.shields.io/badge/-XML-02569B.svg?style=flat&logo=android&color=black
@@ -37,34 +39,45 @@
 [SpringBoot]: https://img.shields.io/badge/-SpringBoot-6DB33F.svg?style=flat&logo=springboot&logoColor=white
 [Cloudflare]: https://img.shields.io/badge/-Cloudflare-F38020.svg?style=flat&logo=cloudflare&logoColor=white
 [Vercel]: https://img.shields.io/badge/-Vercel-000000.svg?style=flat&logo=vercel&logoColor=white
+[Postman]: https://img.shields.io/badge/-Postman-FF6C37.svg?style=flat&logo=postman&logoColor=white
+[Nodejs]: https://img.shields.io/badge/-Node.js-5FA04E.svg?style=flat&logo=node.js&logoColor=white
+[공공데이터]: https://img.shields.io/badge/-공공데이터-005BAC.svg?style=flat&logo=공공데이터&logoColor=white
 
 <!-- Server ( Cloud ) -->
 [Firebase]: https://img.shields.io/badge/-Firebase-FFCA28.svg?style=flat&logo=firebase&logoColor=white
 [Supabase]: https://img.shields.io/badge/-Supabase-3FCF8E.svg?style=flat&logo=supabase&logoColor=white
 
 <!-- AI -->
-[Claude]: https://img.shields.io/badge/-Claude-D4A27F.svg?style=flat&logo=anthropic&logoColor=white
+[Claude]: https://img.shields.io/badge/-Claude-D97757?style=flat&logo=claude&logoColor=white
 [Gemma]: https://img.shields.io/badge/-Gemma-4285F4.svg?style=flat&logo=google&logoColor=white
+[GPT]: https://img.shields.io/badge/-GPT-1A1A1A?style=flat&logo=openai&logoColor=white
 
-# 🇰🇷 JuYeon Lee [![Tech-Blog-Badge]][Tech-Blog_URL] [![Email-Badge]][Email_URL] [![Instagram-Badge]][Instagram_URL]
+# 🇰🇷 JuYeon Lee 
+[![Instagram-Badge]][Instagram_URL]<br>
+[![Portfolio-Badge]][Portfolio_URL]<br>
+[![Email-Badge]][Email_URL]<br>
 
-**🦄 Main Project**|**Front End**|**Back End**|**Tech**|
+**Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![Claude]|
-Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
-[BigBoss OS][BigBossOS_URL]|![SwiftUI] ![JetpackCompose]|![Supabase] ![Vercel]|![Claude] ![Gemma]|
-[Beethovain][Beethovain_URL]|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
+PiPE|![XML] ![UIKit] ![JavaScript]|![Cloudflare] ![GraphQL] ![Apollo] ![PostgreSQL]|![Claude]|
+[Nunulala][Nunulala_URL]|![JetpackCompose] ![SwiftUI]|![공공데이터]![Cloudflare]||
+[BigBoss OS][BigBossOS_URL]|![JetpackCompose] ![SwiftUI]|![Supabase] ![Vercel]|![Claude] ![GPT] ![Gemma]|
 FootHeart|![JetpackCompose] ![SwiftUI]|||
+[Beethovain][Beethovain_URL]|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
 
-**🤝 Team Project**|**Front End**|**Back End**|**Tech**|
+
+**Team Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 Meetjyou|![XML] ![JetpackCompose] ![SwiftUI]|![SpringBoot]||
+HiRoute|![JetpackCompose] ![SwiftUI]|![Postman] ![Nodejs] ![공공데이터]||
 
-**🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
+
+**OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 [Consigliere][Consigliere_URL]|||![Claude]|
+[Capomastro][Capomastro_URL]|||![Claude]|
 Android BLE|![XML] ![Kotlin]||![Claude]|
 
-**🔌 Chrome Extension**|**Front End**|**Back End**|**Tech**|
+**Chrome Extension**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 [Chieply][Chieply_URL]|![JavaScript]||![Claude]|
