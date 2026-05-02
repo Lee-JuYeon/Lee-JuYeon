@@ -52,6 +52,7 @@
 :---|:---|:---|:---|
 PiPE|![XML] ![UIKit] ![JavaScript]|![GraphQL] ![Apollo] ![PostgreSQL] ![Cloudflare]|![Claude]|
 Nunulala|![JetpackCompose] ![SwiftUI]|![Cloudflare]||
+[BigBoss OS][BigBossOS_URL]|![SwiftUI] ![JetpackCompose]|![Supabase] ![Vercel]|![Claude] ![Gemma]|
 [Beethovain][Beethovain_URL]|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
 FootHeart|![JetpackCompose] ![SwiftUI]|||
 
@@ -61,7 +62,6 @@ Meetjyou|![XML] ![JetpackCompose] ![SwiftUI]|![SpringBoot]||
 
 **🆓 OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-[BigBoss OS][BigBossOS_URL]|![SwiftUI] ![JetpackCompose]|![Supabase] ![Vercel]|![Claude] ![Gemma]|
 [Consigliere][Consigliere_URL]|||![Claude]|
 Android BLE|![XML] ![Kotlin]||![Claude]|
 
