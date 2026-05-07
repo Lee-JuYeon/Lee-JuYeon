@@ -7,6 +7,7 @@
 [Chieply_URL]: https://chromewebstore.google.com/detail/chieply-ai-web-translator/hjkalgclafljgagbededaannenfjdkke?hl=ko&utm_source=ext_sidebar
 [Nunulala_URL]: https://nunulala.com
 [BigBossOS_URL]: https://bigbossos.com
+[TextSongAI_URL]: https://github.com/Lee-JuYeon/textsong-ai
 [Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
 [Capomastro_URL]: https://github.com/Lee-JuYeon/Capomastro
 [Email_URL]: mailto:benedictarthur1026@gmail.com
@@ -74,6 +75,7 @@ HiRoute|![JetpackCompose] ![SwiftUI]|![Postman] ![Nodejs] ![공공데이터]||
 
 **OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
+[TextSong AI][TextSongAI_URL]|||![Gemma] ![GPT]|
 [Consigliere][Consigliere_URL]|||![Claude]|
 [Capomastro][Capomastro_URL]|||![Claude]|
 Android BLE|![XML] ![Kotlin]||![Claude]|
