@@ -7,6 +7,8 @@
 [Chieply_URL]: https://chromewebstore.google.com/detail/chieply-ai-web-translator/hjkalgclafljgagbededaannenfjdkke?hl=ko&utm_source=ext_sidebar
 [Nunulala_URL]: https://nunulala.com
 [BigBossOS_URL]: https://bigbossos.com
+[PadrinoOS_URL]: https://padrinoos.com
+[Laibrio_URL]: https://laibrio.com
 [TextSongAI_URL]: https://github.com/Lee-JuYeon/textsong-ai
 [Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
 [Capomastro_URL]: https://github.com/Lee-JuYeon/Capomastro
@@ -61,11 +63,12 @@
 **Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 PiPE|![XML] ![UIKit] ![JavaScript]|![Cloudflare] ![GraphQL] ![Apollo] ![PostgreSQL]|![Claude]|
-[Nunulala][Nunulala_URL]|![JetpackCompose] ![SwiftUI]|![공공데이터]![Cloudflare]||
+[Nunulala][Nunulala_URL]|![JetpackCompose] ![SwiftUI]|![공공데이터] ![Cloudflare]||
 [BigBoss OS][BigBossOS_URL]|![JetpackCompose] ![SwiftUI]|![Supabase] ![Vercel]|![Claude] ![GPT] ![Gemma]|
 FootHeart|![JetpackCompose] ![SwiftUI]|||
 [Beethovain][Beethovain_URL]|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
-
+[PadrinoOS][PadrinoOS_URL]|![JetpackCompose] ![SwiftUI]|![Cloudflare]|![Claude] |
+[Laibrio][Laibrio_URL]|![Typescript]|![Typescript] ![Cloudflare]|![Claude]|
 
 **Team Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
@@ -83,3 +86,4 @@ Android BLE|![XML] ![Kotlin]||![Claude]|
 **Chrome Extension**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 [Chieply][Chieply_URL]|![JavaScript]||![Claude]|
+
