@@ -9,7 +9,8 @@
 [BigBossOS_URL]: https://bigbossos.com
 [PadrinoOS_URL]: https://padrinoos.com
 [Laibrio_URL]: https://laibrio.com
-[TextSongAI_URL]: https://github.com/Lee-JuYeon/textsong-ai
+[FreeCloudComputers_URL]: https://github.com/Lee-JuYeon/FreeCloudComputers
+[picBuilder_URL]: https://github.com/Lee-JuYeon/picBuilder
 [Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
 [Capomastro_URL]: https://github.com/Lee-JuYeon/Capomastro
 [Email_URL]: mailto:benedictarthur1026@gmail.com
@@ -78,7 +79,8 @@ HiRoute|![JetpackCompose] ![SwiftUI]|![Postman] ![Nodejs] ![공공데이터]||
 
 **OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
-[TextSong AI][TextSongAI_URL]|||![Gemma] ![GPT]|
+[무료 클라우드 컴퓨팅 모음 mcp][FreeCloudComputers_URL]|||![Claude]|
+[렌즈기반 3D복원][picBuilder_URL]|||![Claude]|
 [Consigliere][Consigliere_URL]|||![Claude]|
 [Capomastro][Capomastro_URL]|||![Claude]|
 Android BLE|![XML] ![Kotlin]||![Claude]|
