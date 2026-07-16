@@ -63,7 +63,7 @@
 **Main Project**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 PiPE|![XML] ![UIKit] ![JavaScript]|![Cloudflare] ![GraphQL] ![Apollo] ![PostgreSQL]|![Claude]|
-[Nunulala][Nunulala_URL]|![JetpackCompose] ![SwiftUI]|![공공데이터] ![Cloudflare]||
+Nunulala|![JetpackCompose] ![SwiftUI]|![공공데이터] ![Cloudflare]||
 [BigBoss OS][BigBossOS_URL]|![JetpackCompose] ![SwiftUI]|![Supabase] ![Vercel]|![Claude] ![GPT] ![Gemma]|
 FootHeart|![JetpackCompose] ![SwiftUI]|||
 [Beethovain][Beethovain_URL]|![HTML] ![CSS] ![JavaScript] ![TypeScript]|![Cloudflare]|![Claude]|
