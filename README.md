@@ -10,7 +10,7 @@
 [PadrinoOS_URL]: https://padrinoos.com
 [Laibrio_URL]: https://laibrio.com
 [FreeCloudComputers_URL]: https://github.com/Lee-JuYeon/FreeCloudComputers
-[picBuilder_URL]: https://github.com/Lee-JuYeon/picBuilder
+[image3dBuilder_URL]: https://github.com/Lee-JuYeon/image3dBuilder
 [Consigliere_URL]: https://github.com/Lee-JuYeon/Consigliere
 [Capomastro_URL]: https://github.com/Lee-JuYeon/Capomastro
 [Email_URL]: mailto:benedictarthur1026@gmail.com
@@ -80,7 +80,7 @@ HiRoute|![JetpackCompose] ![SwiftUI]|![Postman] ![Nodejs] ![공공데이터]||
 **OpenSource**|**Front End**|**Back End**|**Tech**|
 :---|:---|:---|:---|
 [무료 클라우드 컴퓨팅 모음 mcp][FreeCloudComputers_URL]|||![Claude]|
-[렌즈기반 3D복원][picBuilder_URL]|||![Claude]|
+[렌즈기반 3D복원][image3dBuilder_URL]|||![Claude]|
 [Consigliere][Consigliere_URL]|||![Claude]|
 [Capomastro][Capomastro_URL]|||![Claude]|
 Android BLE|![XML] ![Kotlin]||![Claude]|
