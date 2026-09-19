@@ -1,43 +1,39 @@
-<div id="header" align="center">
+<div id="header">
 
-<img src="https://media1.tenor.com/m/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif"/>
-
-<table align="left">
+<table>
   <tr>
-    <td align="right">👨🏻‍💻</td>
-    <td><b>JU YEON, LEE</b></td>
+    <td rowspan="4" align="center">
+      <img src="https://media1.tenor.com/m/cUDKyJkDr6kAAAAd/iron-man-iron-man-hammer.gif" width="180"/>
+    </td>
+    <td align="left">👨🏻‍💻</td>
+    <td align="left"><b>JU YEON, LEE</b></td>
   </tr>
   <tr>
-    <td align="right">🇰🇷</td>
-    <td><b>Republic of Korea</b></td>
+    <td align="left">🇰🇷</td>
+    <td align="left"><b>Republic of Korea</b></td>
   </tr>
   <tr>
-    <td align="right">
+    <td align="left">
       <a href="https://instagram.com/juyeon_lee1026">
-        <img src="https://cdn.simpleicons.org/instagram/FF0069"
-             height="20" alt="Instagram">
+        <img src="https://img.shields.io/badge/-FF0069?style=flat&logo=instagram&logoColor=white"
+             align="absmiddle" alt="Instagram">
       </a>
     </td>
-    <td>
-      <a href="https://instagram.com/juyeon_lee1026">
-        <b>@juyeon_lee1026</b>
-      </a>
+    <td align="left">
+      <a href="https://instagram.com/juyeon_lee1026"><b>@juyeon_lee1026</b></a>
     </td>
   </tr>
   <tr>
-    <td align="right">
+    <td align="left">
       <a href="https://juyeon-lee.com/#thinking">
-        <img src="https://cdn.simpleicons.org/htmx/FF6B00"
-             height="20" alt="Portfolio">
+        <img src="https://img.shields.io/badge/-FF6B00?style=flat&logo=htmx&logoColor=white"
+             align="absmiddle" alt="Portfolio">
       </a>
     </td>
-    <td>
-      <a href="https://juyeon-lee.com/#thinking">
-        <b>juyeon-lee.com</b>
-      </a>
+    <td align="left">
+      <a href="https://juyeon-lee.com/#thinking"><b>juyeon-lee.com</b></a>
     </td>
   </tr>
 </table>
 
 </div>
-
