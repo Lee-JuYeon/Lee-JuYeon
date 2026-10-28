@@ -23,7 +23,7 @@
       <a href="https://instagram.com/juyeon_lee1026"><b>@juyeon_lee1026</b></a>
     </td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td align="left">
       <a href="https://juyeon-lee.com/#thinking">
         <img src="https://img.shields.io/badge/-FF6B00?style=flat&logo=htmx&logoColor=white"
@@ -33,7 +33,7 @@
     <td align="left">
       <a href="https://juyeon-lee.com/#thinking"><b>juyeon-lee.com</b></a>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 </div>
